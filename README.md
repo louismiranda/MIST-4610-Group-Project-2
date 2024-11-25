@@ -14,10 +14,11 @@
 
 Our dataset is a historical record of all the New York Police Department's (NYPD) arrests made from 2006-2023. We obtained our dataset through this website given to us by Dr. Srinivasan: [https://catalog.data.gov/dataset]. Our dataset is composed of 19 columns consisting of more than 5 million rows of data (approx. 5,725,522 rows) that vary in terms of data types. It details the type of offense committed (Dangerous Drugs, Assault,...), the level of the offense committed (Felony, Misdemeanor,...), the borough of the arrest (Brooklyn, Manhattan,...), and the perpetrator's age group (<18, 18-24,...) and gender (M, F, U) which are all of data type 'String'. It also details the date of the arrest, including the month, day, and year, which is of data type 'Date & Time'. Additionally, the arrest key is recorded which is of data type 'Number(Whole)' and the location of the arrest is listed in terms of longitude and latitude which are both of data type 'Number(Decimal)'. A screenshot of our dataset in .xls format can be seen below, in which the columns highlighted in gold are the dimensions used in our project. Overall, this dataset has a variation of different dimensions that help us dive deeper into the arrests and crimes that occurred in New York City. 
 
+<img width="1440" alt="Screenshot 2024-11-25 at 12 28 53 PM" src="https://github.com/user-attachments/assets/829a2a45-d649-4e31-ad6c-58bcdac70eb8">
 
 ## Question 1:
 
-Question: In Boston, what days of the week tend to have more drug violations? For those days of the week that experience more drug violations, what times during the year do those same days experience most of their drug violations?
+Question: Which demographic factors, specifically age or gender, are most strongly associated with certain types of offenses?
 
 Importance: 
 
