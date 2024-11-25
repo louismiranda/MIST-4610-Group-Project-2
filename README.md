@@ -24,8 +24,10 @@ Importance:
 
 This question is important because it allows one to understand how demographics come into play when NYPD are making arrests, and allow one to identify the relationships between age, gender, and type of offense committed, as well as explore the patterns associated with their relationships. This allows one to answer questions like "Are younger individuals more involved in specific types of offenses, like theft, compared to older groups?", which can pinpoint which age groups and gender are most high-risk for theft or other types of offenses. Furthermore, this question can reveal underlying systemic behavioral problems that tend to develop during earlier ages and continue to develop as they get older, which could be the root cause for some of the broader crime challenges that New York City faces. By answering this question, everyone in the New York City community, from the NYPD and policymakers to the people, can collaborate together to build targeted intervention programs that can prevent a certain demographic group from committing the crime they're most associated with in the first place, or stop them from repeating the offense again as they grow older. Additionally, this question helps to build trust between the people and the police by providing better transparency in what types of people are being arrested, ensuring any potential bias or inequalities in arrests is openly identified and addressed.  
 
+<img width="1440" alt="Screenshot 2024-11-25 at 2 53 06 PM" src="https://github.com/user-attachments/assets/153b3396-4667-4d9a-84a8-c37da31df7cb">
 
-<img width="1680" alt="Screen Shot 2023-04-27 at 6 57 16 PM" src="https://user-images.githubusercontent.com/128402101/235008141-41d1e344-d5c0-48d6-a3fb-bebf7bc341b9.png">
+![Heatmap (% Across)](https://github.com/user-attachments/assets/c0869a9e-fe6d-4fb4-bf23-e1e0dfa0c97b)
+
 
 Our first graph illustrates the count of drug violation incidents that occur within Boston on different days of the week. We noticed that unlike most crimes, drug violations occur more often on weekdays. Saturday and Sunday report the lowest amount of drug violation incidents. We continued to analyze this same data in our next visualization. 
 
